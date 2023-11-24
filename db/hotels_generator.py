@@ -1,0 +1,1 @@
+# Hotels generator for the database
